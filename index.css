@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.footer{
+    background-color: #3D3D3D;
+    height: 75px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer p{
+    color: #828282;
+    font-size: 15px;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #828282;
+}
+
+a:hover{
+    color: #fff;
+}
+
+img{
+    width: 100%;
+}
